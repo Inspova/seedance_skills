@@ -143,6 +143,17 @@ Every skill includes:
 
 ---
 
+## Spaghetti Western
+
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Spaghetti Western](STYLE/spaghetti-western/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/spaghetti-western-skill*
+
+---
+
 ## More Skills Coming Soon
 
 We are continuously developing new filmmaking skills and will be adding them to this repository over time.

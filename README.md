@@ -17,7 +17,9 @@ A collection of open-source AI filmmaking skills for Seedance 2.5, designed to h
 
 🔥Experience these skills ***directly in your browser***🔥
 
-<img src="assets/skills_page.png" width="700">
+<a href="https://yesand.ai/skills">
+  <img src="assets/skills_page.png" width="800">
+</a>
 
 **👉 https://yesand.ai/skills**
 

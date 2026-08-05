@@ -45,7 +45,6 @@ Every skill includes:
 ---
 
 ## Christopher Nolan style
-
 *intro (work in progress)*
 
 ### 🎬 Sample Video
@@ -66,7 +65,6 @@ Every skill includes:
 ---
 
 ## French New Wave style
-
 *intro (work in progress)*
 
 ### 🎬 Sample Video
@@ -86,8 +84,7 @@ Every skill includes:
 
 ---
 
-## Hayao Miyazaki
-
+## Hayao Miyazaki style
 *intro (work in progress)*
 
 ### 🎬 Sample Video
@@ -107,8 +104,7 @@ Every skill includes:
 
 ---
 
-## Film Noir
-
+## Film Noir style
 *intro (work in progress)*
 
 ### 🎬 Sample Video
@@ -129,7 +125,6 @@ Every skill includes:
 ---
 
 ## Cinema Vérité
-
 *intro (work in progress)*
 
 ### 📁 Resources
@@ -140,7 +135,6 @@ Every skill includes:
 ---
 
 ## Spaghetti Western
-
 *intro (work in progress)*
 
 ### 📁 Resources
@@ -217,6 +211,126 @@ Every skill includes:
 
 - 📖 **Skill Files:** [Character Psychologies](SKILLS/CHARACTER/character-psychologies/)
 - 🚀 **Try Online:** *👉 https://yesand.ai/skill/character-psychologies-skill*
+
+---
+
+## Character Design
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Character Design](SKILLS/CHARACTER/character-design/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/character-design-skill*
+
+---
+
+## Editing Techniques
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Editing Techniques](SKILLS/OTHERS/editing-techniques/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/editing-techniques-skill*
+
+---
+
+## Editing Techniques
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Editing Techniques](SKILLS/OTHERS/editing-techniques/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/editing-techniques-skill*
+
+---
+
+## Manga Manuscript
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Manga Manuscript](SKILLS/OTHERS/manga-manuscript/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/manga-manuscript-skill*
+
+---
+
+## Wong Kar-Wai style
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Wong Kar-Wai style](SKILLS/DIRECTOR/wong-kar-wai/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/wong-kar-wai-skill*
+
+---
+
+## Zach Snyder style
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Zach Snyder style](SKILLS/DIRECTOR/zach-snyder/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/zach-snyder-skill*
+
+---
+
+## German Expressionism style
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [German Expressionism style](SKILLS/STYLE/german-expressionism/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/german-expressionism-skill*
+
+---
+
+## Sofia Coppola style
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Sofia Coppola style](SKILLS/DIRECTOR/sofia-coppola/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/sofia-coppola-skill*
+
+---
+
+## Ridley Scott style
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Ridley Scott style](SKILLS/DIRECTOR/ridley-scott/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/ridley-scott-skill*
+
+---
+
+## Terrence Malick style
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Terrence Malick style](SKILLS/DIRECTOR/terrence-malick/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/terrence-malick-skill*
+
+---
+
+## Kill Bill style
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Kill Bill style](SKILLS/IP/kill-bill/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/kill-bill-skill*
+
+---
+
+## Camera Movements
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Camera Movements](SKILLS/CAMERA/camera-movements/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/camera-movements-skill*
 
 ---
 

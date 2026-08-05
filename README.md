@@ -132,10 +132,6 @@ Every skill includes:
 
 *intro (work in progress)*
 
-### 🎬 Sample Video
-
-*(Insert GIF or video here)*
-
 ### 📁 Resources
 
 - 📖 **Skill Files:** [Cinema Vérité](SKILLS/STYLE/cinema-vérité/)
@@ -151,6 +147,26 @@ Every skill includes:
 
 - 📖 **Skill Files:** [Spaghetti Western](SKILLS/STYLE/spaghetti-western/)
 - 🚀 **Try Online:** *👉 https://yesand.ai/skill/spaghetti-western-skill*
+
+---
+
+## Orbit Cam
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Orbit Cam](SKILLS/CAMERA/orbit-cam/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/orbit-cam-skill*
+
+---
+
+## Lens Effects
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Lens Effects](SKILLS/POSTPROCESSING/lens-effects/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/lens-effects-skill*
 
 ---
 

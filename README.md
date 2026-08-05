@@ -19,7 +19,7 @@ A collection of open-source AI filmmaking skills for Seedance 2.5, designed to h
 
 <p align=center>
   <a href="https://yesand.ai/skills">
-    <img src="assets/skills_page.png" width="800">
+    <img src="assets/skills_page.png" width="900">
   </a>
 </p>
 

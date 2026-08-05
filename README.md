@@ -165,8 +165,58 @@ Every skill includes:
 
 ### 📁 Resources
 
-- 📖 **Skill Files:** [Lens Effects](SKILLS/POSTPROCESSING/lens-effects/)
+- 📖 **Skill Files:** [Lens Effects](SKILLS/POSTPROCCESSING/lens-effects/)
 - 🚀 **Try Online:** *👉 https://yesand.ai/skill/lens-effects-skill*
+
+---
+
+## Color Grading
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Color Grading](SKILLS/POSTPROCCESSING/color-grading/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/color-grading-skill*
+
+---
+
+## Image Finishing
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Color Grading](SKILLS/POSTPROCCESSING/image-finishing/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/image-finishing-skill*
+
+---
+
+## Lighting Effects
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Lighting Effects](SKILLS/OTHERS/lighting-effects/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/lighting-effects-skill*
+
+---
+
+## Lighting Effects
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Lighting Effects](SKILLS/OTHERS/lighting-effects/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/lighting-effects-skill*
+
+---
+
+## Character Psychologies
+*intro (work in progress)*
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Character Psychologies](SKILLS/CHARACTER/character-psychologies/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/character-psychologies-skill*
 
 ---
 

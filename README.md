@@ -115,7 +115,7 @@ Every skill includes:
 
 <p align="center">
   <a href="https://yesand.ai/prompt/little-movie-midnight-temptress-b17a1e38">
-    <img src="assets/noir.png" width="800" alt="film noir style sample image">
+    <img src="assets/noir.png" width="450" alt="film noir style sample image">
   </a>
   <br>
   <em>click the image to watch sample video made by @Calaire Dirhael</em>

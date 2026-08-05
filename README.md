@@ -29,7 +29,7 @@ A collection of open-source AI filmmaking skills for Seedance 2.5, designed to h
 
 # 🚀 What is Seedance 2.5
 
-*Seedance 2.5 is an advanced AI filmmaking model that transforms text prompts and visual references into cinematic videos*
+Seedance 2.5 is an advanced AI filmmaking model that transforms text prompts and visual references into cinematic videos. 
 
 ---
 
@@ -45,7 +45,7 @@ Every skill includes:
 ---
 
 ## Christopher Nolan style
-*Create complex cinematic stories about time, reality, and human choices.*
+Create complex cinematic stories about time, reality, and human choices.
 
 ### 🎬 Sample Video
 
@@ -65,7 +65,7 @@ Every skill includes:
 ---
 
 ## French New Wave style
-*Create creative and unconventional films with a personal artistic style.*
+Create creative and unconventional films with a personal artistic style.
 
 ### 🎬 Sample Video
 
@@ -85,7 +85,7 @@ Every skill includes:
 ---
 
 ## Hayao Miyazaki style
-*Create heartfelt worlds filled with nature, imagination, and wonder.*
+Create heartfelt worlds filled with nature, imagination, and wonder.
 
 ### 🎬 Sample Video
 
@@ -105,7 +105,7 @@ Every skill includes:
 ---
 
 ## Film Noir style
-*Create dark cinematic worlds filled with mystery and tension.*
+Create dark cinematic worlds filled with mystery and tension.
 
 ### 🎬 Sample Video
 
@@ -125,7 +125,7 @@ Every skill includes:
 ---
 
 ## Cinema Vérité
-*Capture realistic moments that feel natural and unscripted.*
+Capture realistic moments that feel natural and unscripted.
 
 ### 📁 Resources
 
@@ -135,7 +135,7 @@ Every skill includes:
 ---
 
 ## Spaghetti Western
-*Create tense cinematic worlds with iconic characters and dramatic landscapes.*
+Create tense cinematic worlds with iconic characters and dramatic landscapes.
 
 ### 📁 Resources
 
@@ -145,7 +145,7 @@ Every skill includes:
 ---
 
 ## Orbit Cam
-*Create smooth camera movements that circle around people, objects, or places to showcase them from every angle.*
+Create smooth camera movements that circle around people, objects, or places to showcase them from every angle.
 
 ### 📁 Resources
 
@@ -155,7 +155,7 @@ Every skill includes:
 ---
 
 ## Lens Effects
-*Shape the image through realistic lens characteristics and optical effects.*
+Shape the image through realistic lens characteristics and optical effects.
 
 ### 📁 Resources
 
@@ -165,7 +165,7 @@ Every skill includes:
 ---
 
 ## Color Grading
-*Create the right color mood and visual tone for your scene.*
+Create the right color mood and visual tone for your scene.
 
 ### 📁 Resources
 
@@ -175,7 +175,7 @@ Every skill includes:
 ---
 
 ## Image Finishing
-*Refine the final image with texture, detail, and cinematic polish.*
+Refine the final image with texture, detail, and cinematic polish.
 
 ### 📁 Resources
 
@@ -185,7 +185,7 @@ Every skill includes:
 ---
 
 ## Lighting Effects
-*Shape the mood of your scene through light, shadows, and color.*
+Shape the mood of your scene through light, shadows, and color.
 
 ### 📁 Resources
 
@@ -195,7 +195,7 @@ Every skill includes:
 ---
 
 ## Character Psychologies
-*Create characters with believable emotions, motivations, and inner conflicts.*
+Create characters with believable emotions, motivations, and inner conflicts.
 
 ### 📁 Resources
 
@@ -205,7 +205,7 @@ Every skill includes:
 ---
 
 ## Character Design
-*Create characters with memorable appearances and unique identities.*
+Create characters with memorable appearances and unique identities.
 
 ### 📁 Resources
 
@@ -215,7 +215,7 @@ Every skill includes:
 ---
 
 ## Editing Techniques
-*Shape the rhythm, flow, and emotional impact of your story.*
+Shape the rhythm, flow, and emotional impact of your story.
 
 ### 📁 Resources
 
@@ -225,7 +225,7 @@ Every skill includes:
 ---
 
 ## Manga Manuscript
-*Transform scenes into expressive manga-style artwork.*
+Transform scenes into expressive manga-style artwork.
 
 ### 📁 Resources
 
@@ -235,7 +235,7 @@ Every skill includes:
 ---
 
 ## Wong Kar-Wai style
-*Capture emotional moments through color, atmosphere, and visual poetry.*
+Capture emotional moments through color, atmosphere, and visual poetry.
 
 ### 📁 Resources
 
@@ -245,7 +245,7 @@ Every skill includes:
 ---
 
 ## Zach Snyder style
-*Create powerful cinematic images with dramatic scale and intensity.*
+Create powerful cinematic images with dramatic scale and intensity.
 
 ### 📁 Resources
 
@@ -255,7 +255,7 @@ Every skill includes:
 ---
 
 ## German Expressionism style
-*Turn emotions into dramatic visual worlds through shapes, shadows, and atmosphere.*
+Turn emotions into dramatic visual worlds through shapes, shadows, and atmosphere.
 
 ### 📁 Resources
 
@@ -265,7 +265,7 @@ Every skill includes:
 ---
 
 ## Sofia Coppola style
-*Create intimate visuals focused on emotion, atmosphere, and personal moments.*
+Create intimate visuals focused on emotion, atmosphere, and personal moments.
 
 ### 📁 Resources
 
@@ -275,7 +275,7 @@ Every skill includes:
 ---
 
 ## Ridley Scott style
-*Build realistic worlds with detailed environments and cinematic atmosphere.*
+Build realistic worlds with detailed environments and cinematic atmosphere.
 
 ### 📁 Resources
 
@@ -285,7 +285,7 @@ Every skill includes:
 ---
 
 ## Terrence Malick style
-*Create poetic visuals through nature, memory, and human emotion.*
+Create poetic visuals through nature, memory, and human emotion.
 
 ### 📁 Resources
 
@@ -295,7 +295,7 @@ Every skill includes:
 ---
 
 ## Kill Bill style
-*Create stylish action with bold visuals and memorable energy.*
+Create stylish action with bold visuals and memorable energy.
 
 ### 📁 Resources
 
@@ -305,7 +305,7 @@ Every skill includes:
 ---
 
 ## Camera Movements
-*Choose camera movement, framing, and perspective to tell your story visually.*
+Choose camera movement, framing, and perspective to tell your story visually.
 
 ### 📁 Resources
 

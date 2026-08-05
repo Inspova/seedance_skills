@@ -60,7 +60,7 @@ Every skill includes:
 
 ### 📁 Resources
 
-- 📖 **Skill Files:** [Christopher Nolan](SKILLS/STYLE/christopher-nolan/)
+- 📖 **Skill Files:** [Christopher Nolan](SKILLS/DIRECTOR/christopher-nolan/)
 - 🚀 **Try Online:** *👉 https://yesand.ai/skill/christopher-nolan-skill*
 
 ---
@@ -102,7 +102,7 @@ Every skill includes:
 
 ### 📁 Resources
 
-- 📖 **Skill Files:** [Hayao Miyazaki](SKILLS/STYLE/hayao-miyazaki/)
+- 📖 **Skill Files:** [Hayao Miyazaki](SKILLS/DIRECTOR/hayao-miyazaki/)
 - 🚀 **Try Online:** *👉 https://yesand.ai/skill/hayao-miyazaki-skill*
 
 ---

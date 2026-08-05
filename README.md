@@ -60,7 +60,7 @@ Every skill includes:
 
 ### 📁 Resources
 
-- 📖 **Skill Files:** [Christopher Nolan](STYLE/christopher-nolan/)
+- 📖 **Skill Files:** [Christopher Nolan](SKILLS/STYLE/christopher-nolan/)
 - 🚀 **Try Online:** *👉 https://yesand.ai/skill/christopher-nolan-skill*
 
 ---
@@ -81,7 +81,7 @@ Every skill includes:
 
 ### 📁 Resources
 
-- 📖 **Skill Files:** [French New Wave](STYLE/french-new-wave/)
+- 📖 **Skill Files:** [French New Wave](SKILLS/STYLE/french-new-wave/)
 - 🚀 **Try Online:** *👉 https://yesand.ai/skill/french-new-wave-skill*
 
 ---
@@ -102,7 +102,7 @@ Every skill includes:
 
 ### 📁 Resources
 
-- 📖 **Skill Files:** [Hayao Miyazaki](STYLE/hayao-miyazaki/)
+- 📖 **Skill Files:** [Hayao Miyazaki](SKILLS/STYLE/hayao-miyazaki/)
 - 🚀 **Try Online:** *👉 https://yesand.ai/skill/hayao-miyazaki-skill*
 
 ---
@@ -123,7 +123,7 @@ Every skill includes:
 
 ### 📁 Resources
 
-- 📖 **Skill Files:** [Film Noir](STYLE/film-noir/)
+- 📖 **Skill Files:** [Film Noir](SKILLS/STYLE/film-noir/)
 - 🚀 **Try Online:** *👉 https://yesand.ai/skill/film-noir-skill*
 
 ---
@@ -138,7 +138,7 @@ Every skill includes:
 
 ### 📁 Resources
 
-- 📖 **Skill Files:** [Cinema Vérité](STYLE/cinema-vérité/)
+- 📖 **Skill Files:** [Cinema Vérité](SKILLS/STYLE/cinema-vérité/)
 - 🚀 **Try Online:** *👉 https://yesand.ai/skill/cinema-ve%CC%81rite%CC%81-skill*
 
 ---
@@ -149,7 +149,7 @@ Every skill includes:
 
 ### 📁 Resources
 
-- 📖 **Skill Files:** [Spaghetti Western](STYLE/spaghetti-western/)
+- 📖 **Skill Files:** [Spaghetti Western](SKILLS/STYLE/spaghetti-western/)
 - 🚀 **Try Online:** *👉 https://yesand.ai/skill/spaghetti-western-skill*
 
 ---

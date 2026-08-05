@@ -42,7 +42,24 @@ Every skill includes:
 
 ---
 
-## Cinema-Vérité
+## Christopher Nolan style
+
+*intro (work in progress)*
+
+### 🎬 Sample Video
+
+<a href="https://yesand.ai/skill/christopher-nolan-skill">
+  <img src="assets/nolan.png" width="500">
+</a>
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Christopher Nolan](STYLE/christopher-nolan/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/christopher-nolan-skill*
+
+---
+
+## Cinema Vérité
 
 *intro (work in progress)*
 
@@ -52,7 +69,7 @@ Every skill includes:
 
 ### 📁 Resources
 
-- 📖 **Skill Files:** [Cinema-Vérité](STYLE/cinema-vérité/)
+- 📖 **Skill Files:** [Cinema Vérité](STYLE/cinema-vérité/)
 - 🚀 **Try Online:** *👉 https://yesand.ai/skill/cinema-ve%CC%81rite%CC%81-skill*
 
 ---

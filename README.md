@@ -45,7 +45,7 @@ Every skill includes:
 ---
 
 ## Christopher Nolan style
-*intro (work in progress)*
+*Create complex cinematic stories about time, reality, and human choices.*
 
 ### 🎬 Sample Video
 
@@ -65,7 +65,7 @@ Every skill includes:
 ---
 
 ## French New Wave style
-*intro (work in progress)*
+*Create creative and unconventional films with a personal artistic style.*
 
 ### 🎬 Sample Video
 
@@ -85,7 +85,7 @@ Every skill includes:
 ---
 
 ## Hayao Miyazaki style
-*intro (work in progress)*
+*Create heartfelt worlds filled with nature, imagination, and wonder.*
 
 ### 🎬 Sample Video
 
@@ -105,7 +105,7 @@ Every skill includes:
 ---
 
 ## Film Noir style
-*intro (work in progress)*
+*Create dark cinematic worlds filled with mystery and tension.*
 
 ### 🎬 Sample Video
 
@@ -125,7 +125,7 @@ Every skill includes:
 ---
 
 ## Cinema Vérité
-*intro (work in progress)*
+*Capture realistic moments that feel natural and unscripted.*
 
 ### 📁 Resources
 
@@ -135,7 +135,7 @@ Every skill includes:
 ---
 
 ## Spaghetti Western
-*intro (work in progress)*
+*Create tense cinematic worlds with iconic characters and dramatic landscapes.*
 
 ### 📁 Resources
 
@@ -145,7 +145,7 @@ Every skill includes:
 ---
 
 ## Orbit Cam
-*intro (work in progress)*
+*Create smooth camera movements that circle around people, objects, or places to showcase them from every angle.*
 
 ### 📁 Resources
 
@@ -155,7 +155,7 @@ Every skill includes:
 ---
 
 ## Lens Effects
-*intro (work in progress)*
+*Shape the image through realistic lens characteristics and optical effects.*
 
 ### 📁 Resources
 
@@ -165,7 +165,7 @@ Every skill includes:
 ---
 
 ## Color Grading
-*intro (work in progress)*
+*Create the right color mood and visual tone for your scene.*
 
 ### 📁 Resources
 
@@ -175,7 +175,7 @@ Every skill includes:
 ---
 
 ## Image Finishing
-*intro (work in progress)*
+*Refine the final image with texture, detail, and cinematic polish.*
 
 ### 📁 Resources
 
@@ -185,17 +185,7 @@ Every skill includes:
 ---
 
 ## Lighting Effects
-*intro (work in progress)*
-
-### 📁 Resources
-
-- 📖 **Skill Files:** [Lighting Effects](SKILLS/OTHERS/lighting-effects/)
-- 🚀 **Try Online:** *👉 https://yesand.ai/skill/lighting-effects-skill*
-
----
-
-## Lighting Effects
-*intro (work in progress)*
+*Shape the mood of your scene through light, shadows, and color.*
 
 ### 📁 Resources
 
@@ -205,7 +195,7 @@ Every skill includes:
 ---
 
 ## Character Psychologies
-*intro (work in progress)*
+*Create characters with believable emotions, motivations, and inner conflicts.*
 
 ### 📁 Resources
 
@@ -215,7 +205,7 @@ Every skill includes:
 ---
 
 ## Character Design
-*intro (work in progress)*
+*Create characters with memorable appearances and unique identities.*
 
 ### 📁 Resources
 
@@ -225,17 +215,7 @@ Every skill includes:
 ---
 
 ## Editing Techniques
-*intro (work in progress)*
-
-### 📁 Resources
-
-- 📖 **Skill Files:** [Editing Techniques](SKILLS/OTHERS/editing-techniques/)
-- 🚀 **Try Online:** *👉 https://yesand.ai/skill/editing-techniques-skill*
-
----
-
-## Editing Techniques
-*intro (work in progress)*
+*Shape the rhythm, flow, and emotional impact of your story.*
 
 ### 📁 Resources
 
@@ -245,7 +225,7 @@ Every skill includes:
 ---
 
 ## Manga Manuscript
-*intro (work in progress)*
+*Transform scenes into expressive manga-style artwork.*
 
 ### 📁 Resources
 
@@ -255,7 +235,7 @@ Every skill includes:
 ---
 
 ## Wong Kar-Wai style
-*intro (work in progress)*
+*Capture emotional moments through color, atmosphere, and visual poetry.*
 
 ### 📁 Resources
 
@@ -265,7 +245,7 @@ Every skill includes:
 ---
 
 ## Zach Snyder style
-*intro (work in progress)*
+*Create powerful cinematic images with dramatic scale and intensity.*
 
 ### 📁 Resources
 
@@ -275,7 +255,7 @@ Every skill includes:
 ---
 
 ## German Expressionism style
-*intro (work in progress)*
+*Turn emotions into dramatic visual worlds through shapes, shadows, and atmosphere.*
 
 ### 📁 Resources
 
@@ -285,7 +265,7 @@ Every skill includes:
 ---
 
 ## Sofia Coppola style
-*intro (work in progress)*
+*Create intimate visuals focused on emotion, atmosphere, and personal moments.*
 
 ### 📁 Resources
 
@@ -295,7 +275,7 @@ Every skill includes:
 ---
 
 ## Ridley Scott style
-*intro (work in progress)*
+*Build realistic worlds with detailed environments and cinematic atmosphere.*
 
 ### 📁 Resources
 
@@ -305,7 +285,7 @@ Every skill includes:
 ---
 
 ## Terrence Malick style
-*intro (work in progress)*
+*Create poetic visuals through nature, memory, and human emotion.*
 
 ### 📁 Resources
 
@@ -315,7 +295,7 @@ Every skill includes:
 ---
 
 ## Kill Bill style
-*intro (work in progress)*
+*Create stylish action with bold visuals and memorable energy.*
 
 ### 📁 Resources
 
@@ -325,7 +305,7 @@ Every skill includes:
 ---
 
 ## Camera Movements
-*intro (work in progress)*
+*Choose camera movement, framing, and perspective to tell your story visually.*
 
 ### 📁 Resources
 

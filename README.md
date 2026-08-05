@@ -48,9 +48,13 @@ Every skill includes:
 
 ### 🎬 Sample Video
 
-<a href="https://yesand.ai/skill/christopher-nolan-skill">
-  <img src="assets/nolan.png" width="500">
-</a>
+<p align="center">
+  <a href="https://yesand.ai/prompt/this-is-the-end-3719c58f">
+    <img src="assets/nolan.png" width="450" alt="click image to watch sample video">
+  </a>
+  <br>
+  <em>Click the image to try this skill on YesAnd.ai</em>
+</p>
 
 ### 📁 Resources
 

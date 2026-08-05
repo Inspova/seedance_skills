@@ -29,7 +29,7 @@ A collection of open-source AI filmmaking skills for Seedance 2.5, designed to h
 
 # 🚀 What is Seedance 2.5
 
-*Write a short introduction here. (work in progress)*
+*Seedance 2.5 is an advanced AI filmmaking model that transforms text prompts and visual references into cinematic videos*
 
 ---
 

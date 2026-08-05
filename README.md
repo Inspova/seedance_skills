@@ -94,7 +94,7 @@ Every skill includes:
 
 <p align="center">
   <a href="https://yesand.ai/prompt/beauty-and-the-beast-2-66382d75">
-    <img src="assets/french.png" width="800" alt="hayao miyazaki style sample image">
+    <img src="assets/hayao.png" width="800" alt="hayao miyazaki style sample image">
   </a>
   <br>
   <em>click the image to watch sample video made by @Yasmin Khan</em>

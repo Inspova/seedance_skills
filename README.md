@@ -50,10 +50,10 @@ Every skill includes:
 
 <p align="center">
   <a href="https://yesand.ai/prompt/this-is-the-end-3719c58f">
-    <img src="assets/nolan.png" width="450" alt="click image to watch sample video">
+    <img src="assets/nolan.png" width="450" alt="christopher nolan style sample image">
   </a>
   <br>
-  <em>Click the image to try this skill on YesAnd.ai</em>
+  <em>click the image to watch sample video made by @Yasmin Khan</em>
 </p>
 
 ### 📁 Resources

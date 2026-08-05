@@ -15,7 +15,7 @@ A collection of open-source AI filmmaking skills for Seedance 2.5, designed to h
 
 # 🌐 Try Online
 
-🔥 Experience these skills ***directly in your browser*** 🔥
+🔥 Experience these skills **directly in your browser** 🔥
 
 <p align=center>
   <a href="https://yesand.ai/skills">
@@ -31,7 +31,7 @@ A collection of open-source AI filmmaking skills for Seedance 2.5, designed to h
 
 Seedance 2.5 is an advanced AI filmmaking model that transforms text prompts and visual references into cinematic videos. 
 
-**🔥 NOW SUPPORTING 30S VIDEO 🔥**
+**🔥 Seedance 2.5 now supports 30s videos 🔥**
 
 - ✨ Cinematic Video Generation
 - 🎭 Character Consistency

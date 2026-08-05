@@ -70,8 +70,8 @@ Every skill includes:
 ### 🎬 Sample Video
 
 <p align="center">
-  <a href="https://yesand.ai/prompt/this-is-the-end-3719c58f">
-    <img src="assets/nolan.png" width="450" alt="french new wave style sample image">
+  <a href="https://yesand.ai/prompt/goodwill-hunting-%C3%A0-la-godard-65e0371c">
+    <img src="assets/french.png" width="450" alt="french new wave style sample image">
   </a>
   <br>
   <em>click the image to watch sample video made by @Alem.iastudio</em>

@@ -107,6 +107,27 @@ Every skill includes:
 
 ---
 
+## Film Noir
+
+*intro (work in progress)*
+
+### 🎬 Sample Video
+
+<p align="center">
+  <a href="https://yesand.ai/prompt/little-movie-midnight-temptress-b17a1e38">
+    <img src="assets/noir.png" width="800" alt="film noir style sample image">
+  </a>
+  <br>
+  <em>click the image to watch sample video made by @Calaire Dirhael</em>
+</p>
+
+### 📁 Resources
+
+- 📖 **Skill Files:** [Film Noir](STYLE/film-noir/)
+- 🚀 **Try Online:** *👉 https://yesand.ai/skill/film-noir-skill*
+
+---
+
 ## Cinema Vérité
 
 *intro (work in progress)*
